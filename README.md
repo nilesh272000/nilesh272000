@@ -1,108 +1,111 @@
 # Nilesh Kendre
-### AI Engineer | Generative AI | LLM Engineering | Agentic Systems
 
-Designing and engineering intelligent applications powered by Large Language Models, Retrieval-Augmented Generation, and autonomous AI agents.
+### AI Engineer | Generative AI | LLM Engineering | Agentic AI
 
-Focused on building reliable, scalable, and context-aware AI systems that solve practical business problems.
+Designing and building intelligent applications powered by Large Language Models, Retrieval-Augmented Generation, and Agentic AI architectures.
+
+Interested in engineering reliable, scalable AI systems through advanced retrieval, intelligent orchestration, model evaluation, and modern AI infrastructure.
 
 ---
 
-### AREAS OF EXPERTISE
+### TECHNICAL EXPERTISE
+
+**Programming & Backend**
+- Python, SQL
+- FastAPI, REST APIs
+- AWS, Docker, Git
 
 **Generative AI & LLM Engineering**
-- Large Language Models and Prompt Engineering
-- LLM Application Development
+- Large Language Models (LLMs)
+- Prompt Engineering & Context Engineering
 - Embeddings and Semantic Search
-- Context Engineering and Structured Outputs
+- Structured Outputs and Function Calling
+- OpenAI APIs and Hugging Face
 
-**RAG & Knowledge Systems**
+**RAG & Knowledge Engineering**
 - Advanced Retrieval-Augmented Generation
 - Hybrid Search and Reranking
-- Vector Databases and Retrieval Optimization
-- Document Processing and Knowledge Ingestion
-- RAG Evaluation and Grounded Generation
+- Vector Databases: Pinecone, ChromaDB
+- Document Intelligence and Knowledge Ingestion
+- Retrieval Optimization and RAG Evaluation
 
-**Agentic AI**
+**Agentic AI & Orchestration**
 - LangChain and LangGraph
-- Multi-Agent Architectures
+- Multi-Agent Systems
 - Tool Calling and Workflow Orchestration
 - Agent State Management and Memory
-- Evaluation and Self-Correction
+- Human-in-the-Loop Workflows
 
 **Machine Learning & NLP**
 - Scikit-learn, XGBoost
 - TensorFlow and Keras
-- NLP, Transformers and Hugging Face
-- Classification, Regression and Deep Learning
-
-**Backend & Engineering**
-- Python, SQL
-- FastAPI and REST APIs
-- AWS
-- Docker and Git
-- Vector Databases: Pinecone, ChromaDB
+- Transformers, BERT and Hugging Face
+- Deep Learning and NLP
 
 ---
 
-### SELECTED ENGINEERING PROJECTS
+### ENGINEERING FOCUS
 
-**01 | IT Operations Copilot — Agentic RAG**
+Exploring and building intelligent systems across:
 
-Enterprise IT support assistant integrating intelligent retrieval, query rewriting, evidence evaluation, and agentic workflows.
-
-Stack: Python, LangGraph, FastAPI, OpenAI, ChromaDB.
-
-**02 | MedAssist — Medical Knowledge Assistant**
-
-Safety-oriented medical knowledge assistant designed around contextual retrieval, grounded responses, and agentic RAG workflows.
-
-Stack: Python, LangGraph, FastAPI, OpenAI, ChromaDB.
-
-**03 | Self-Evaluating RAG Lesson Generator**
-
-RAG-based application incorporating persistent memory, structured evaluation, and rubric-driven response assessment.
-
-Stack: Python, LangGraph, OpenAI, Pydantic.
-
-**04 | LoopForge — Self-Correcting Multi-Agent System**
-
-Multi-agent application focused on iterative execution, evaluation, and self-correction.
-
-**05 | Medical Chatbot — LLM-Powered Knowledge Retrieval**
-
-Document-based medical question-answering application using semantic retrieval and LLM-powered responses.
-
-Stack: LangChain, Pinecone, Flask, AWS.
-
-**06 | TripPilot — Multi-Agent Travel Planner**
-
-AI-powered travel planning application demonstrating collaborative agent workflows and task orchestration.
+- Agentic RAG and adaptive retrieval architectures
+- Multi-agent orchestration and autonomous workflows
+- LLM-powered knowledge and automation systems
+- AI evaluation, observability and reliability
+- Context-aware applications and intelligent tool integration
+- Scalable AI APIs and backend infrastructure
 
 ---
 
-### TECHNOLOGY STACK
+### TECHNOLOGY ECOSYSTEM
 
-Python • SQL • Scikit-learn • TensorFlow • Keras • Hugging Face • Transformers • LangChain • LangGraph • LlamaIndex • CrewAI • OpenAI • FastAPI • Pinecone • ChromaDB • AWS • Docker • Git
+**Languages:** Python, SQL
+
+**AI/ML:** Scikit-learn, TensorFlow, Keras, Hugging Face
+
+**LLM Frameworks:** LangChain, LangGraph, LlamaIndex, CrewAI
+
+**LLM Platforms:** OpenAI APIs, Hugging Face
+
+**Vector Databases:** Pinecone, ChromaDB
+
+**Backend & Infrastructure:** FastAPI, AWS, Docker, Git
 
 ---
 
-### CURRENT TECHNICAL INTERESTS
+### CURRENT LEARNING & EXPLORATION
 
-- Advanced Agentic RAG Architectures
-- Multi-Agent Orchestration
+**Agentic AI & Interoperability**
 - Model Context Protocol (MCP)
-- Vectorless RAG
-- LLM Evaluation and Observability
-- Harness Engineering
-- Reliable AI Agent Systems
+- Agent2Agent (A2A) Protocol
+- OpenAI Agents SDK
+- Advanced Multi-Agent Orchestration
+
+**Advanced RAG & Knowledge Systems**
+- Agentic RAG and Adaptive Retrieval
+- Multimodal RAG
+- Graph-based Retrieval and Knowledge Graphs
+- Vectorless Retrieval Approaches
+
+**AI Evaluation & Observability**
+- RAGAS and Agent Evaluation
+- LangSmith and Langfuse
+- OpenTelemetry for GenAI
+- LLM Tracing, Monitoring and Guardrails
+
+**Modern AI Infrastructure**
+- vLLM and LLM Inference Serving
+- Model Optimization and Quantization
+- LoRA and QLoRA
+- Production AI Systems and Deployment
 
 ---
 
 ### CONNECT
 
-- GitHub: https://github.com/nilesh272000
-- Hugging Face: https://huggingface.co/nileshkendre
+- **GitHub:** https://github.com/nilesh272000
+- **Hugging Face:** https://huggingface.co/nileshkendre
 
 ---
 
-*Engineering intelligent systems through thoughtful architecture, practical implementation, and continuous improvement.*
+*Engineering intelligent systems. Exploring emerging technologies. Building practical AI solutions.*
